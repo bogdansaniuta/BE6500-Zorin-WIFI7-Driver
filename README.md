@@ -69,8 +69,8 @@ Cada sistema puede comportarse de forma diferente.
 Archivo completo: formato .ZIp 
 https://mega.nz/file/5nIS3TJQ#Fq3fG6Hfcqv85XUJFU72SRUWH4kGcq6efbXZxJo4P2Q
 
-En terminal pone  una a una linea por linea  si sois experto ya sabeis como funciona Disfrutenlo..
------------------TERMINAL ZORIN--------------------------
+En terminal poneis esto  una a una , linea por linea , si sois experto ya sabeis como funciona esto Disfrutenlo..
+
  ```bash                                               
  unzip "BE6500 Zorin WIFI7.zip"                        
   cd rtw89-1.0                                          
@@ -78,4 +78,3 @@ En terminal pone  una a una linea por linea  si sois experto ya sabeis como func
   sudo dkms build rtw89/1.0                             
   sudo dkms install rtw89/1.0                           
   sudo modprobe rtw89_8852cu_git                        
-
