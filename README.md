@@ -15,7 +15,7 @@ Driver experimental para adaptador WiFi 7 BE6500 en Linux (Zorin OS).
 
 Este driver es **experimental y no oficial**.  
 Está diseñado específicamente para el adaptador: 
-https://static.tp-link.com/upload/image-line/Archer_TBE400UH_EU_1.0_2408_overview_01_large_20240923030104o.jpg
+https://www.tp-link.com/es/home-networking/high-gain-adapter/archer-tbe400uh/
 Mirar bien  desplazandose con <  > en la imagen
 
 TP-Link Archer TBE400UH (WiFi 7 USB)
