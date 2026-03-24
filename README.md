@@ -11,7 +11,6 @@ Driver experimental para adaptador WiFi 7 BE6500 en Linux (Zorin OS).
 - Zorin OS
 - Kernel 6.x
 
-
 ### ⚠️ Advertencia importante
 
 Este driver es **experimental y no oficial**.  
@@ -29,8 +28,6 @@ TP-Link Archer TBE400UH (WiFi 7 USB)
 
 👉 No se recomienda su uso si no tienes conocimientos básicos de Linux.
 
----
-
 ### 🔐 Secure Boot (OBLIGATORIO)
 
 Para que el driver funcione correctamente:
@@ -42,9 +39,6 @@ Para que el driver funcione correctamente:
 ❗ Si no haces esto, el sistema bloqueará el driver.
 
 👉 Tras la instalación, puedes volver a activarlo bajo tu responsabilidad.
-
----
-
 ### 🧪 Uso bajo responsabilidad
 
 Este software se proporciona **“tal cual”**, sin garantías de ningún tipo.
@@ -56,18 +50,12 @@ El autor:
 
 👉 El uso de este driver es bajo tu propia responsabilidad.
 
-## 📦 Descarga alternativa
-Archivo completo: formato .ZIp 
-https://mega.nz/file/5nIS3TJQ#Fq3fG6Hfcqv85XUJFU72SRUWH4kGcq6efbXZxJo4P2Q
-
 ### 🚀 Experiencia personal
 
 En pruebas realizadas:
 - Funcionamiento correcto en Zorin OS  
 - Conexión estable  
 - Alto rendimiento en red  
-
----
 
 ### 📌 Nota final
 
@@ -77,18 +65,16 @@ y ha sido adaptado para uso específico en este hardware.
 Cada sistema puede comportarse de forma diferente.
 
 ## 🔧 Descarga y Instalación 
-
-## 📦 Descarga alternativa
 Archivo completo: formato .ZIp 
 https://mega.nz/file/5nIS3TJQ#Fq3fG6Hfcqv85XUJFU72SRUWH4kGcq6efbXZxJo4P2Q
 
 En terminal pone  una a una linea por linea  si sois experto ya sabeis como funciona Disfrutenlo..
------------------TERMINAL ZORIN--------------------------|
-|  ```bash                                               |
-|  unzip "BE6500 Zorin WIFI7.zip"                        |
-|  cd rtw89-1.0                                          |
-|  sudo dkms add .                                       |
-|  sudo dkms build rtw89/1.0                             |
-|  sudo dkms install rtw89/1.0                           |
-|  sudo modprobe rtw89_8852cu_git                        |
----------------------------------------------------------|
+-----------------TERMINAL ZORIN--------------------------
+ ```bash                                               
+ unzip "BE6500 Zorin WIFI7.zip"                        
+  cd rtw89-1.0                                          
+  sudo dkms add .                                       
+  sudo dkms build rtw89/1.0                             
+  sudo dkms install rtw89/1.0                           
+  sudo modprobe rtw89_8852cu_git                        
+
