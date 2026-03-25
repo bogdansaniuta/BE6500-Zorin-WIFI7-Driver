@@ -185,5 +185,3 @@ Install `usb-modeswitch` (or usb_modeswitch), a tool that can switch your adapte
 https://github.com/morrownr/USB-WiFi  
 
 Below I've listed the product I have. I'm the partial creator of the working driver. If you don't have that adapter, forget this post and keep looking unless there are similar drivers available; try those.  https://www.tp-link.com/es/home-networking/high-gain-adapter/archer-tbe400uh/
-
-Download  Drivers wirelles 7 BE6500 https://mega.nz/file/NvgyHADJ#ggBGGhFeHD54OxIunrq2IaEoQNg7ZBJyzn459Guywbk
